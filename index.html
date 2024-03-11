@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title> Lista de Ramais - Telefonia IP</title>
+    <link rel="icon" type="image/x-icon" href="https://cdn-icons-png.freepik.com/512/6596/6596115.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+
+    <!-- <link rel="stylesheet" href="../libs/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="../libs/bootstrap/css/bootstrap-responsive-min.css"> -->
+    <!-- <link rel="stylesheet" href="../css/inicio.css"> -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&family=Roboto+Slab:wght@400;500&display=swap"
+        rel="stylesheet">
+    <script src="../js/jquery.min.js"></script>
+    <script src="../css/bootstrap.min.js"></script>
+    <!-- <script src="../js/filtra.js"></script> -->
+
+
+    <link rel='stylesheet' id='hello-elementor-theme-style-css'
+        href='https://terraboa.pr.gov.br/wp-content/themes/hello-elementor/theme.min.css?ver=2.5.0' type='text/css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css'
+        href='https://terraboa.pr.gov.br/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.5'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-5-css'
+        href='https://terraboa.pr.gov.br/wp-content/uploads/elementor/css/post-5.css?ver=1696426994' type='text/css'
+        media='all' />
+    <link rel='stylesheet' id='elementor-post-18-css'
+        href='https://terraboa.pr.gov.br/wp-content/uploads/elementor/css/post-18.css?ver=1698253590' type='text/css'
+        media='all' />
+
+    <script type='text/javascript'
+        src='https://terraboa.pr.gov.br/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?ver=3.1.6'
+        id='ecs_ajax_load-js'></script>
+    <script type='text/javascript'
+        src='https://terraboa.pr.gov.br/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?ver=3.1.6'
+        id='ecs-script-js'></script>
+    <link rel="https://api.w.org/" href="https://terraboa.pr.gov.br/wp-json/" />
+    <link rel="alternate" type="application/json" href="https://terraboa.pr.gov.br/wp-json/wp/v2/pages/1726" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://terraboa.pr.gov.br/xmlrpc.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml"
+        href="https://terraboa.pr.gov.br/wp-includes/wlwmanifest.xml" />
+    <meta name="generator" content="WordPress 6.0.1" />
+    <link rel='shortlink' href='https://terraboa.pr.gov.br/' />
+    <link rel="alternate" type="application/json+oembed"
+        href="https://terraboa.pr.gov.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fterraboa.pr.gov.br%2F" />
+    <link rel="alternate" type="text/xml+oembed"
+        href="https://terraboa.pr.gov.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fterraboa.pr.gov.br%2F&#038;format=xml" />
+    <meta name="cdp-version" content="1.3.0" />
+    <meta name="generator" content="Site Kit by Google 1.87.0" />
+    <style type="text/css">
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a {
+            background-color: #ff5b5b;
+            color: #ffffff;
+        }
+
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay,
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items.pojo-a11y-links {
+            border-color: #ff5b5b;
+        }
+
+        body.pojo-a11y-focusable a:focus {
+            outline-style: solid !important;
+            outline-width: 1px !important;
+            outline-color: #FF0000 !important;
+        }
+
+        #pojo-a11y-toolbar {
+            top: 90px !important;
+        }
+
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay {
+            background-color: #ffffff;
+        }
+
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a,
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay p.pojo-a11y-toolbar-title {
+            color: #333333;
+        }
+
+        #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a.active {
+            background-color: #ff5b5b;
+            color: #ffffff;
+        }
+
+        @media (max-width: 767px) {
+            #pojo-a11y-toolbar {
+                top: 0px !important;
+            }
+        }
+
+        .imagemfundo {
+            height: 100px;
+            width: 100px;
+            background-position: center;
+            background-repeat: no-repeat;
+            opacity: 0.1;
+            float: right;
+        }
+
+        .strong {
+            text-align: center;
+            font-weight: bold;
+        }
+
+
+        .p1 {
+            background-color: #ccd8f0 !important;
+            font-size: 15px;
+        }
+
+        .p2 {
+            background-color: #d5dff2 !important;
+            font-size: 15px;
+        }
+
+        .p1:hover,
+        .p2:hover {
+            background-color: #fff !important;
+            color: darkblue;
+        }
+
+        .s1 {
+            background-color: #e3aaa8 !important;
+            font-size: 15px;
+        }
+
+        .s2 {
+            background-color: #e8bdbc !important;
+            font-size: 15px;
+        }
+
+        .s1:hover,
+        .s2:hover {
+            background-color: #fff !important;
+            color: red;
+        }
+
+        .e1 {
+            background-color: #e3e2a8 !important;
+            font-size: 15px;
+        }
+
+        .e2 {
+            background-color: #e3e2bc !important;
+            font-size: 15px;
+        }
+
+        .e1:hover,
+        .e2:hover {
+            background-color: #fff !important;
+            color: goldenrod;
+        }
+
+        .soc1 {
+            background-color: #d2b0e8 !important;
+            font-size: 15px;
+        }
+
+        .soc2 {
+            background-color: #ded1e8 !important;
+            font-size: 15px;
+        }
+
+        .soc1:hover,
+        .soc2:hover {
+            background-color: #fff !important;
+            color: purple;
+        }
+
+        .pub1 {
+            background-color: #c0e3bc !important;
+            font-size: 15px;
+        }
+
+        .pub2 {
+            background-color: #d3e8d1 !important;
+            font-size: 15px;
+        }
+
+        .pub1:hover,
+        .pub2:hover {
+            background-color: #fff !important;
+            color: green;
+        }
+
+        @media screen and (max-width: 250px) {
+
+            body {
+                width: auto;
+            }
+
+            table,
+            tr,
+            td {
+                flex-direction: column;
+            }
+
+            td {
+                visibility: hidden;
+            }
+
+            .ramal {
+                visibility: visible;
+            }
+
+        }
+    </style>
+    <script id="google_gtagjs" src="https://terraboa.pr.gov.br/?local_ga_js=ea1e24043aa3e60cca190507d4259c90"
+        async="async" type="text/javascript"></script>
+    <script id="google_gtagjs-inline" type="text/javascript">
+        window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-DMJMRNV7SJ', {});
+    </script>
+
+
+
+    </style>
+
+
+
+
+    <style>
+        tr,
+        td {
+            font-family: 'Raleway', sans-serif;
+        }
+    </style>
+
+</head>
+
+<body
+    class="home page-template-default page page-id-1726 wp-custom-logo elementor-default elementor-kit-5 elementor-page elementor-page-1726">
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
+        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
+        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
+        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
+        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
+        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
+        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
+        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none"
+        style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg>
+    <div data-elementor-type="header" data-elementor-id="18" class="elementor elementor-18 elementor-location-header">
+
+        </section>
+        <section
+            class="elementor-section elementor-top-section elementor-element elementor-element-35cb4a3 elementor-section-height-min-height elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-items-middle"
+            data-id="35cb4a3" data-element_type="section"
+            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="elementor-background-overlay"></div>
+            <div class="elementor-container elementor-column-gap-no">
+                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-062dc96"
+                    data-id="062dc96" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                        <section
+                            class="elementor-section elementor-inner-section elementor-element elementor-element-1774f9d elementor-section-height-min-height elementor-section-boxed elementor-section-height-default"
+                            data-id="1774f9d" data-element_type="section"
+                            data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+                            <div class="elementor-container elementor-column-gap-no">
+                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6ac9a86"
+                                    data-id="6ac9a86" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-3758e3e elementor-widget elementor-widget-theme-site-logo elementor-widget-image"
+                                            data-id="3758e3e" data-element_type="widget"
+                                            data-widget_type="theme-site-logo.default">
+                                            <div class="elementor-widget-container">
+                                                <img width="2268" height="1071"
+                                                    src="https://terraboa.pr.gov.br/wp-content/uploads/2022/06/Logo2023.png"
+                                                    class="attachment-full size-full" alt="" loading="lazy"
+                                                    srcset="https://terraboa.pr.gov.br/wp-content/uploads/2022/06/Logo2023.png 2268w, https://terraboa.pr.gov.br/wp-content/uploads/2022/06/Logo2023-300x142.png 300w, https://terraboa.pr.gov.br/wp-content/uploads/2022/06/Logo2023-1024x484.png 1024w, https://terraboa.pr.gov.br/wp-content/uploads/2022/06/Logo2023-768x363.png 768w, https://terraboa.pr.gov.br/wp-content/uploads/2022/06/Logo2023-1536x725.png 1536w, https://terraboa.pr.gov.br/wp-content/uploads/2022/06/Logo2023-2048x967.png 2048w"
+                                                    sizes="(max-width: 2268px) 100vw, 2268px" /> </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-inner-column elementor-element elementor-element-126ad8d"
+                                    data-id="126ad8d" data-element_type="column">
+                                    <div class="elementor-element elementor-element-a304a36 elementor-search-form--skin-minimal elementor-widget elementor-widget-search-form"
+                                        data-id="a304a36" data-element_type="widget"
+                                        data-settings="{&quot;skin&quot;:&quot;minimal&quot;}"
+                                        data-widget_type="search-form.default">
+                                        <h2 style="color: whitesmoke; text-align: right;">Fale com a prefeitura</h2>
+                                        <h3
+                                            style="color: whitesmoke; text-align: right; text-decoration: underline; font-weight: bolder;">
+                                            3641-8000</h3>
+                                        <h3
+                                            style="color: whitesmoke; text-align: right; text-decoration: underline; font-weight: bolder;">
+                                            Número gratuito: 0800 115 7700</h3>
+                                        <div class="elementor-widget-container">
+
+                                        </div>
+                                        <div class="elementor-element elementor-element-dc62701 elementor-nav-menu__align-justify elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu"
+                                            data-id="dc62701" data-element_type="widget"
+                                            data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}"
+                                            data-widget_type="nav-menu.default">
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+        </section>
+    </div>
+    </div>
+    </div>
+    </section>
+
+
+    </div>
+    </div>
+
+
+
+
+
+
+    <div class="container">
+
+        <br>
+        <fieldset class="scheduler-border">
+            <legend class="scheduler-border" style="font-family: 'Raleway', sans-serif;">Lista telefonia IP</span>
+            </legend>
+            <div class="col-md-12 column">
+                <div role="form" class="form-horizontal" action="" method="post" id="filtra">
+                    <div class="form-group">
+                        <div class="col-sm-4" style="display:flex; gap:20px"><input onkeyup="pesquisar()" type="text"
+                                class="form-control" placeholder="Pesquisar" id="pesquisar">
+                            <!-- <button onclick="pesquisar()" style="border-style:double; border-radius: 20px; color:gray; border-color: gray;background: transparent;">Pesquisar</button> -->
+                        </div>
+                    </div>
+                    <br>
+                </div>
+
+            </div>
+            <div class="col-xl-12 column">
+                <table cellspacing="0" class="column table table-bordered 5">
+                    <thead>
+                        <tr>
+                            <th>Ramal</th>
+                            <th>Nome</th>
+                            <th>Função</th>
+                            <th>Departamento</th>
+                            <th>Localização</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody">
+
+                    </tbody>
+
+                </table>
+            </div>
+
+        </fieldset>
+    </div>
+    <legend></legend>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ouroboros-simple.svg/2051px-Ouroboros-simple.svg.png"
+        alt="ob" class="imagemfundo">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+        crossorigin="anonymous"></script>
+    <script>
+
+        let carregar = () => {
+            let searchBar = document.querySelector('#pesquisar');
+            let trRes = document.querySelector(".ramalTeste");
+
+            fetch(`https://raw.githubusercontent.com/Vmjlol/api-telefones/main/api.json`)
+                .then((response) => response.json())
+                .then((data) => {
+                    let row = document.querySelector('.ramalTeste')
+                    let newHTML = ``
+                    for (let i = 0; i < data.length; i++) {
+                        let dados = data[i];
+
+                        newHTML += `
+            <tr class="${dados.tag}">
+                <td class="strong ramal">${dados.ramal}</td>
+                <td>${dados.nome}</td>
+                <td>${dados.funcao}</td>
+                <td>${dados.departamento}</td>
+                <td>${dados.localizacao}</td>
+            </tr>
+        `;
+                    }
+                    document.getElementById('tbody').innerHTML = newHTML;
+                });
+        }
+
+        let pesquisar = () => {
+
+            let searchBar = document.querySelector('#pesquisar').value;
+            console.log(searchBar);
+            let trRes = document.querySelector("#tbody");
+
+            fetch(`https://raw.githubusercontent.com/Vmjlol/api-telefones/main/api.json`)
+                .then((response) => response.json())
+                .then((data) => {
+                    let newHTML = ``
+                    for (let i = 0; i < data.length; i++) {
+                        let dados = data[i];
+
+                        function removerAcentos(texto) {
+                            texto = texto.replace(/[ÀÁÂÃÄÅ]/g, 'A');
+                            texto = texto.replace(/[àáâãäå]/g, 'a');
+                            texto = texto.replace(/[ÈÉÊË]/g, 'E');
+                            texto = texto.replace(/[èéêë]/g, 'e');
+                            texto = texto.replace(/[Í]/g, 'I');
+                            texto = texto.replace(/[í]/g, 'i');
+                            texto = texto.replace(/[Ú]/g, 'U');
+                            texto = texto.replace(/[ú]/g, 'u');
+                            return texto;
+                        }
+
+                        let nomeSem = removerAcentos(dados.nome);
+                        let funcaoSem = removerAcentos(dados.funcao);
+                        let depSem = removerAcentos(dados.departamento);
+                        let localSem = removerAcentos(dados.localizacao);
+
+
+
+                        // console.log(funcaoSem);
+
+
+                        if (String(dados.ramal).includes(searchBar) ||
+                            (dados.nome.toLowerCase().includes(searchBar.toLowerCase()) || nomeSem.toLowerCase().includes(searchBar.toLowerCase())) ||
+                            (dados.funcao.toLowerCase().includes(searchBar.toLowerCase()) || funcaoSem.toLowerCase().includes(searchBar.toLowerCase())) ||
+                            (dados.departamento.toLowerCase().includes(searchBar.toLowerCase()) || depSem.toLowerCase().includes(searchBar.toLowerCase())) ||
+                            (dados.localizacao.toLowerCase().includes(searchBar.toLowerCase()) || localSem.toLowerCase().includes(searchBar.toLowerCase()))
+                        ) {
+
+                            newHTML += `
+            <tr class="${dados.tag}">
+                <td class="strong ramal">${dados.ramal}</td>
+                <td>${dados.nome}</td>
+                <td>${dados.funcao}</td>
+                <td>${dados.departamento}</td>
+                <td>${dados.localizacao}</td>
+            </tr>
+        `;
+                        }
+                    }
+                    document.getElementById('tbody').innerHTML = newHTML;
+                });
+
+        }
+
+
+
+
+        carregar();
+
+
+    </script>
+
+</body>
+
+</html>

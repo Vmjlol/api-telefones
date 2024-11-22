@@ -833,7 +833,7 @@
     },
     {
         "ramal": 407,
-        "nome": "Renata",
+        "nome": "Administrativo",
         "funcao": "Administrativo",
         "departamento": "Fazenda",
         "localizacao": "Prefeitura",
@@ -841,7 +841,7 @@
     },
     {
         "ramal": 408,
-        "nome": "Lucas",
+        "nome": "Renata",
         "funcao": "Administrativo",
         "departamento": "Fazenda",
         "localizacao": "Prefeitura",
@@ -1010,7 +1010,7 @@
     {
         "ramal": 505,
         "nome": "Rose",
-        "funcao": "Secret\u00e1ria do  Social",
+        "funcao": "Secret\u00e1ria da Assist.  Social",
         "departamento": "Assist. Social",
         "localizacao": "Prefeitura",
         "tag": "p2"
@@ -1129,7 +1129,7 @@
     },
     {
         "ramal": 602,
-        "nome": "Alex\/Lucas\/Lohary",
+        "nome": "Alex\/Fernando\/Lucas\/Lohary",
         "funcao": "Administrativo",
         "departamento": "Engenharia",
         "localizacao": "Prefeitura",

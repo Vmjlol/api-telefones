@@ -18,7 +18,7 @@
     {
         "ramal": 104,
         "nome": "Toninho",
-        "funcao": "Secret\u00e1rio Adm Geral",
+        "funcao": "Secretário Adm Geral",
         "departamento": "Gabinete",
         "localizacao": "Prefeitura",
         "tag": "p1"
@@ -57,17 +57,17 @@
     },
     {
         "ramal": 115,
-        "nome": "Marcio\/Paula",
+        "nome": "Marcio/Paula",
         "funcao": "Advogados",
-        "departamento": "Jur\u00eddico",
+        "departamento": "Jurídico",
         "localizacao": "Prefeitura",
         "tag": "p1"
     },
     {
         "ramal": 116,
-        "nome": "Jos\u00e9 Augusto",
+        "nome": "José Augusto",
         "funcao": "Advogado",
-        "departamento": "Jur\u00eddico",
+        "departamento": "Jurídico",
         "localizacao": "Prefeitura",
         "tag": "p1"
     },
@@ -114,7 +114,7 @@
     {
         "ramal": 145,
         "nome": "Cozinha",
-        "funcao": "Daiane\/Silvana",
+        "funcao": "Daiane/Silvana",
         "departamento": "Adm. Geral",
         "localizacao": "Prefeitura",
         "tag": "p1"
@@ -123,7 +123,7 @@
         "ramal": 201,
         "nome": "Elena",
         "funcao": "Administrativo",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -131,7 +131,7 @@
         "ramal": 202,
         "nome": "Lucas",
         "funcao": "Administrativo",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -139,15 +139,15 @@
         "ramal": 203,
         "nome": "Raquel",
         "funcao": "Administrativo",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
     {
         "ramal": 204,
         "nome": "Leuktembergg",
-        "funcao": "Secret\u00e1rio de Sa\u00fade",
-        "departamento": "Sa\u00fade",
+        "funcao": "Secretário de Saúde",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -155,7 +155,7 @@
         "ramal": 205,
         "nome": "Camila",
         "funcao": "Administrativo",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -163,15 +163,15 @@
         "ramal": 206,
         "nome": "Fabiana",
         "funcao": "Administrativo",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
     {
         "ramal": 207,
-        "nome": "Sa\u00fade",
+        "nome": "Saúde",
         "funcao": "Administrativo",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -179,7 +179,7 @@
         "ramal": 208,
         "nome": "Mariely",
         "funcao": "Administrativo",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -187,7 +187,7 @@
         "ramal": 212,
         "nome": "Regiane",
         "funcao": "Ouvidoria",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -195,15 +195,15 @@
         "ramal": 213,
         "nome": "Hetony",
         "funcao": "Transporte",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
     {
         "ramal": 214,
-        "nome": "Giselle\/Elisangela",
-        "funcao": "Farm\u00e1cia",
-        "departamento": "Sa\u00fade",
+        "nome": "Giselle/Elisangela",
+        "funcao": "Farmácia",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -211,7 +211,7 @@
         "ramal": 220,
         "nome": "Amanda",
         "funcao": "Agendamento",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -219,7 +219,7 @@
         "ramal": 221,
         "nome": "Guilherme",
         "funcao": "Agendamento",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -227,135 +227,135 @@
         "ramal": 222,
         "nome": "Debora",
         "funcao": "Agendamento",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
     {
         "ramal": 230,
-        "nome": "Cassiana Ver\u00f4nica",
-        "funcao": "Vigil\u00e2ncia",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Prefeitura",
-        "tag": "p2"
+        "nome": "Cassiana Verônica",
+        "funcao": "Vigilância",
+        "departamento": "Saúde",
+        "localizacao": "Vigilância",
+        "tag": "s2"
     },
     {
         "ramal": 231,
         "nome": "Anderson",
-        "funcao": "Vigil\u00e2ncia",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Prefeitura",
-        "tag": "p2"
+        "funcao": "Vigilância",
+        "departamento": "Saúde",
+        "localizacao": "Vigilância",
+        "tag": "s2"
     },
     {
         "ramal": 232,
         "nome": "Paulo Dezoti",
-        "funcao": "Diretor Vigil\u00e2ncia",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Prefeitura",
-        "tag": "p2"
+        "funcao": "Diretor Vigilância",
+        "departamento": "Saúde",
+        "localizacao": "Vigilância",
+        "tag": "s2"
     },
     {
         "ramal": 235,
-        "nome": "Cintia\/Cassiana\/Paulista",
+        "nome": "Cintia/Cassiana/Paulista",
         "funcao": "Epidemiologia",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Prefeitura",
-        "tag": "p2"
+        "departamento": "Saúde",
+        "localizacao": "Vigilância",
+        "tag": "s2"
     },
     {
         "ramal": 236,
         "nome": "Levi",
         "funcao": "Endemias",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Miguel Alves Pereira (Post\u00e3o)",
+        "departamento": "Saúde",
+        "localizacao": "UBS Miguel Alves Pereira (Postão)",
         "tag": "s1"
     },
     {
         "ramal": 240,
-        "nome": "Recep\u00e7\u00e3o",
-        "funcao": "Recep\u00e7\u00e3o",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Hospital Municipal S\u00e3o Judas Tadeu",
+        "nome": "Recepção",
+        "funcao": "Recepção",
+        "departamento": "Saúde",
+        "localizacao": "Hospital Municipal São Judas Tadeu",
         "tag": "s2"
     },
     {
         "ramal": 241,
-        "nome": "Refeit\u00f3rio",
-        "funcao": "Refeit\u00f3rio",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Hospital Municipal S\u00e3o Judas Tadeu",
+        "nome": "Refeitório",
+        "funcao": "Refeitório",
+        "departamento": "Saúde",
+        "localizacao": "Hospital Municipal São Judas Tadeu",
         "tag": "s2"
     },
     {
         "ramal": 242,
         "nome": "Josi",
         "funcao": "Administrativo",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Hospital Municipal S\u00e3o Judas Tadeu",
+        "departamento": "Saúde",
+        "localizacao": "Hospital Municipal São Judas Tadeu",
         "tag": "s2"
     },
     {
         "ramal": 243,
         "nome": "Posto 01",
         "funcao": "Posto 01",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Hospital Municipal S\u00e3o Judas Tadeu",
+        "departamento": "Saúde",
+        "localizacao": "Hospital Municipal São Judas Tadeu",
         "tag": "s2"
     },
     {
         "ramal": 244,
         "nome": "Lorena",
-        "funcao": "Farm\u00e1cia",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Hospital Municipal S\u00e3o Judas Tadeu",
+        "funcao": "Farmácia",
+        "departamento": "Saúde",
+        "localizacao": "Hospital Municipal São Judas Tadeu",
         "tag": "s2"
     },
     {
         "ramal": 245,
-        "nome": "Sala M\u00e9dica",
+        "nome": "Sala Médica",
         "funcao": "Enfermagem",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Hospital Municipal S\u00e3o Judas Tadeu",
+        "departamento": "Saúde",
+        "localizacao": "Hospital Municipal São Judas Tadeu",
         "tag": "s2"
     },
     {
         "ramal": 246,
-        "nome": "Andr\u00e9",
+        "nome": "André",
         "funcao": "Raio-X",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Hospital Municipal S\u00e3o Judas Tadeu",
+        "departamento": "Saúde",
+        "localizacao": "Hospital Municipal São Judas Tadeu",
         "tag": "s2"
     },
     {
         "ramal": 247,
         "nome": "Ivone",
         "funcao": "Diretora do Hospital",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Hospital Municipal S\u00e3o Judas Tadeu",
+        "departamento": "Saúde",
+        "localizacao": "Hospital Municipal São Judas Tadeu",
         "tag": "s2"
     },
     {
         "ramal": 248,
         "nome": "Pronto Socorro",
         "funcao": "Pronto Socorro",
-        "departamento": "Sa\u00fade",
-        "localizacao": "Hospital Municipal S\u00e3o Judas Tadeu",
+        "departamento": "Saúde",
+        "localizacao": "Hospital Municipal São Judas Tadeu",
         "tag": "s2"
     },
     {
         "ramal": 250,
-        "nome": "Recep\u00e7\u00e3o",
-        "funcao": "Recep\u00e7\u00e3o",
-        "departamento": "Sa\u00fade",
+        "nome": "Recepção",
+        "funcao": "Recepção",
+        "departamento": "Saúde",
         "localizacao": "UBS Bartira A. Naves Pereira (Santo Afonso)",
         "tag": "s1"
     },
     {
         "ramal": 251,
-        "nome": "Coordena\u00e7\u00e3o",
-        "funcao": "Coordena\u00e7\u00e3o",
-        "departamento": "Sa\u00fade",
+        "nome": "Coordenação",
+        "funcao": "Coordenação",
+        "departamento": "Saúde",
         "localizacao": "UBS Bartira A. Naves Pereira (Santo Afonso)",
         "tag": "s1"
     },
@@ -363,7 +363,7 @@
         "ramal": 252,
         "nome": "Odonto 01",
         "funcao": "Odontologia",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "UBS Bartira A. Naves Pereira (Santo Afonso)",
         "tag": "s1"
     },
@@ -371,7 +371,7 @@
         "ramal": 253,
         "nome": "Odonto 02",
         "funcao": "Odontologia",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "UBS Bartira A. Naves Pereira (Santo Afonso)",
         "tag": "s1"
     },
@@ -379,7 +379,7 @@
         "ramal": 254,
         "nome": "Sala ACS",
         "funcao": "Sala ACS",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "UBS Bartira A. Naves Pereira (Santo Afonso)",
         "tag": "s1"
     },
@@ -387,7 +387,7 @@
         "ramal": 255,
         "nome": "Fisioterapia",
         "funcao": "Fisioterapia",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "UBS Bartira A. Naves Pereira (Santo Afonso)",
         "tag": "s1"
     },
@@ -395,135 +395,135 @@
         "ramal": 256,
         "nome": "Preparo",
         "funcao": "Preparo",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "UBS Bartira A. Naves Pereira (Santo Afonso)",
         "tag": "s1"
     },
     {
         "ramal": 257,
-        "nome": "Farm\u00e1cia",
-        "funcao": "Farm\u00e1cia",
-        "departamento": "Sa\u00fade",
+        "nome": "Farmácia",
+        "funcao": "Farmácia",
+        "departamento": "Saúde",
         "localizacao": "UBS Bartira A. Naves Pereira (Santo Afonso)",
         "tag": "s1"
     },
     {
         "ramal": 260,
-        "nome": "Recep\u00e7\u00e3o",
-        "funcao": "Recep\u00e7\u00e3o",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Em\u00edlia Fagundes (Bagatin)",
+        "nome": "Recepção",
+        "funcao": "Recepção",
+        "departamento": "Saúde",
+        "localizacao": "UBS Emília Fagundes (Bagatin)",
         "tag": "s2"
     },
     {
         "ramal": 261,
-        "nome": "Coordena\u00e7\u00e3o",
-        "funcao": "Coordena\u00e7\u00e3o",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Em\u00edlia Fagundes (Bagatin)",
+        "nome": "Coordenação",
+        "funcao": "Coordenação",
+        "departamento": "Saúde",
+        "localizacao": "UBS Emília Fagundes (Bagatin)",
         "tag": "s2"
     },
     {
         "ramal": 262,
         "nome": "Sala ACS",
         "funcao": "Sala ACS",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Em\u00edlia Fagundes (Bagatin)",
+        "departamento": "Saúde",
+        "localizacao": "UBS Emília Fagundes (Bagatin)",
         "tag": "s2"
     },
     {
         "ramal": 265,
-        "nome": "Recep\u00e7\u00e3o",
-        "funcao": "Recep\u00e7\u00e3o",
-        "departamento": "Sa\u00fade",
+        "nome": "Recepção",
+        "funcao": "Recepção",
+        "departamento": "Saúde",
         "localizacao": "UBS Lazaro Mattos Rodrigues (Malu)",
         "tag": "s1"
     },
     {
         "ramal": 266,
-        "nome": "Coordena\u00e7\u00e3o",
-        "funcao": "Coordena\u00e7\u00e3o",
-        "departamento": "Sa\u00fade",
+        "nome": "Coordenação",
+        "funcao": "Coordenação",
+        "departamento": "Saúde",
         "localizacao": "UBS Lazaro Mattos Rodrigues (Malu)",
         "tag": "s1"
     },
     {
         "ramal": 270,
-        "nome": "Recep\u00e7\u00e3o",
-        "funcao": "Recep\u00e7\u00e3o",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Miguel Alves Pereira (Post\u00e3o)",
+        "nome": "Recepção",
+        "funcao": "Recepção",
+        "departamento": "Saúde",
+        "localizacao": "UBS Miguel Alves Pereira (Postão)",
         "tag": "s2"
     },
     {
         "ramal": 271,
-        "nome": "Farm\u00e1cia",
-        "funcao": "Farm\u00e1cia",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Miguel Alves Pereira (Post\u00e3o)",
+        "nome": "Farmácia",
+        "funcao": "Farmácia",
+        "departamento": "Saúde",
+        "localizacao": "UBS Miguel Alves Pereira (Postão)",
         "tag": "s2"
     },
     {
         "ramal": 272,
         "nome": "Sala ACS",
         "funcao": "Sala ACS",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Miguel Alves Pereira (Post\u00e3o)",
+        "departamento": "Saúde",
+        "localizacao": "UBS Miguel Alves Pereira (Postão)",
         "tag": "s2"
     },
     {
         "ramal": 275,
         "nome": "Cidinha",
-        "funcao": "Recep\u00e7\u00e3o",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Salvador Br\u00e1ulio Molina (Vila)",
+        "funcao": "Recepção",
+        "departamento": "Saúde",
+        "localizacao": "UBS Salvador Bráulio Molina (Vila)",
         "tag": "s1"
     },
     {
         "ramal": 276,
         "nome": "Cristiane",
         "funcao": "Vacina",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Salvador Br\u00e1ulio Molina (Vila)",
+        "departamento": "Saúde",
+        "localizacao": "UBS Salvador Bráulio Molina (Vila)",
         "tag": "s1"
     },
     {
         "ramal": 277,
         "nome": "Sala ACS",
         "funcao": "Sala ACS",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Salvador Br\u00e1ulio Molina (Vila)",
+        "departamento": "Saúde",
+        "localizacao": "UBS Salvador Bráulio Molina (Vila)",
         "tag": "s1"
     },
     {
         "ramal": 278,
-        "nome": "Farm\u00e1cia",
-        "funcao": "Farm\u00e1cia",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Salvador Br\u00e1ulio Molina (Vila)",
+        "nome": "Farmácia",
+        "funcao": "Farmácia",
+        "departamento": "Saúde",
+        "localizacao": "UBS Salvador Bráulio Molina (Vila)",
         "tag": "s1"
     },
     {
         "ramal": 279,
         "nome": "Odontologia",
         "funcao": "Odontologia",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Salvador Br\u00e1ulio Molina (Vila)",
+        "departamento": "Saúde",
+        "localizacao": "UBS Salvador Bráulio Molina (Vila)",
         "tag": "s1"
     },
     {
         "ramal": 280,
         "nome": "Od\u00e9cio",
-        "funcao": "Coordena\u00e7\u00e3o",
-        "departamento": "Sa\u00fade",
-        "localizacao": "UBS Salvador Br\u00e1ulio Molina (Vila)",
+        "funcao": "Coordenação",
+        "departamento": "Saúde",
+        "localizacao": "UBS Salvador Bráulio Molina (Vila)",
         "tag": "s1"
     },
     {
         "ramal": 285,
         "nome": "Lecilda",
         "funcao": "Administrativo",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "CAPS",
         "tag": "s2"
     },
@@ -531,7 +531,7 @@
         "ramal": 286,
         "nome": "M\u00e9dicos",
         "funcao": "Administrativo",
-        "departamento": "Sa\u00fade",
+        "departamento": "Saúde",
         "localizacao": "CAPS",
         "tag": "s2"
     },
@@ -539,63 +539,63 @@
         "ramal": 301,
         "nome": "Marta",
         "funcao": "Administrativo",
-        "departamento": "Educa\u00e7\u00e3o",
-        "localizacao": "Secretaria de Educa\u00e7\u00e3o e Cultura",
+        "departamento": "Educação",
+        "localizacao": "Secretaria de Educação e Cultura",
         "tag": "e1"
     },
     {
         "ramal": 302,
         "nome": "Gizele",
         "funcao": "Administrativo",
-        "departamento": "Educa\u00e7\u00e3o",
-        "localizacao": "Secretaria de Educa\u00e7\u00e3o e Cultura",
+        "departamento": "Educação",
+        "localizacao": "Secretaria de Educação e Cultura",
         "tag": "e1"
     },
     {
         "ramal": 303,
         "nome": "Elaine",
         "funcao": "Administrativo",
-        "departamento": "Educa\u00e7\u00e3o",
-        "localizacao": "Secretaria de Educa\u00e7\u00e3o e Cultura",
+        "departamento": "Educação",
+        "localizacao": "Secretaria de Educação e Cultura",
         "tag": "e1"
     },
     {
         "ramal": 304,
         "nome": "Rosane",
-        "funcao": "Secret\u00e1ria de Educa\u00e7\u00e3o",
-        "departamento": "Educa\u00e7\u00e3o",
-        "localizacao": "Secretaria de Educa\u00e7\u00e3o e Cultura",
+        "funcao": "Secret\u00e1ria de Educação",
+        "departamento": "Educação",
+        "localizacao": "Secretaria de Educação e Cultura",
         "tag": "e1"
     },
     {
         "ramal": 305,
         "nome": "Viviane",
         "funcao": "Administrativo",
-        "departamento": "Educa\u00e7\u00e3o",
-        "localizacao": "Secretaria de Educa\u00e7\u00e3o e Cultura",
+        "departamento": "Educação",
+        "localizacao": "Secretaria de Educação e Cultura",
         "tag": "e1"
     },
     {
         "ramal": 306,
         "nome": "Diemes",
         "funcao": "Administrativo",
-        "departamento": "Educa\u00e7\u00e3o",
-        "localizacao": "Secretaria de Educa\u00e7\u00e3o e Cultura",
+        "departamento": "Educação",
+        "localizacao": "Secretaria de Educação e Cultura",
         "tag": "e1"
     },
     {
         "ramal": 309,
-        "nome": "Dire\u00e7\u00e3o de Cultura",
+        "nome": "Direção de Cultura",
         "funcao": "Administrativo",
         "departamento": "Cultura",
-        "localizacao": "Secretaria de Educa\u00e7\u00e3o e Cultura",
+        "localizacao": "Secretaria de Educação e Cultura",
         "tag": "e1"
     },
     {
         "ramal": 310,
         "nome": "Marta",
         "funcao": "Secretaria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Escola Municipal Princesa Isabel",
         "tag": "e2"
     },
@@ -603,7 +603,7 @@
         "ramal": 311,
         "nome": "Marta Saragiotto",
         "funcao": "Pedagoga",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Escola Municipal Princesa Isabel",
         "tag": "e2"
     },
@@ -611,7 +611,7 @@
         "ramal": 315,
         "nome": "Rosiane",
         "funcao": "Secretaria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Escola Mun. Therezinha Bagatin",
         "tag": "e1"
     },
@@ -619,7 +619,7 @@
         "ramal": 316,
         "nome": "Marcia",
         "funcao": "Diretoria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Escola Mun. Therezinha Bagatin",
         "tag": "e1"
     },
@@ -627,7 +627,7 @@
         "ramal": 317,
         "nome": "Cleide\/Fatima",
         "funcao": "Pedagogia",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Escola Mun. Therezinha Bagatin",
         "tag": "e1"
     },
@@ -635,7 +635,7 @@
         "ramal": 320,
         "nome": "Katsolene",
         "funcao": "Diretoria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Escola Municipal Monteiro Lobato",
         "tag": "e2"
     },
@@ -643,7 +643,7 @@
         "ramal": 321,
         "nome": "Willian",
         "funcao": "Secretaria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Escola Municipal Monteiro Lobato",
         "tag": "e2"
     },
@@ -651,7 +651,7 @@
         "ramal": 325,
         "nome": "Katia",
         "funcao": "Diretoria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Escola Municipal Irene Mendes",
         "tag": "e1"
     },
@@ -659,7 +659,7 @@
         "ramal": 326,
         "nome": "Naiane",
         "funcao": "Secretaria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Escola Municipal Irene Mendes",
         "tag": "e1"
     },
@@ -667,7 +667,7 @@
         "ramal": 330,
         "nome": "Rozilda",
         "funcao": "Diretoria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Escola Municipal Adriano Franco",
         "tag": "e2"
     },
@@ -675,15 +675,15 @@
         "ramal": 331,
         "nome": "Fernanda",
         "funcao": "Secretaria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Escola Municipal Adriano Franco",
         "tag": "e2"
     },
     {
         "ramal": 335,
         "nome": "Adalgisa",
-        "funcao": "Coordena\u00e7\u00e3o",
-        "departamento": "Educa\u00e7\u00e3o",
+        "funcao": "Coordenação",
+        "departamento": "Educação",
         "localizacao": "Escola Municipal Manuel M. Rosa",
         "tag": "e1"
     },
@@ -691,7 +691,7 @@
         "ramal": 340,
         "nome": "Elaine",
         "funcao": "",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "CMEI Tia Maria",
         "tag": "e2"
     },
@@ -699,7 +699,7 @@
         "ramal": 341,
         "nome": "Marinez",
         "funcao": "",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "CMEI Tia Maria",
         "tag": "e2"
     },
@@ -707,23 +707,23 @@
         "ramal": 345,
         "nome": "Marta",
         "funcao": "Secretaria",
-        "departamento": "Educa\u00e7\u00e3o",
-        "localizacao": "Creche CMEI Crian\u00e7a Feliz",
+        "departamento": "Educação",
+        "localizacao": "Creche CMEI Criança Feliz",
         "tag": "e1"
     },
     {
         "ramal": 346,
         "nome": "Michele",
         "funcao": "Diretoria",
-        "departamento": "Educa\u00e7\u00e3o",
-        "localizacao": "Creche CMEI Crian\u00e7a Feliz",
+        "departamento": "Educação",
+        "localizacao": "Creche CMEI Criança Feliz",
         "tag": "e1"
     },
     {
         "ramal": 350,
         "nome": "Heliandra",
         "funcao": "Diretoria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Creche CMEI Maria das Dores",
         "tag": "e2"
     },
@@ -731,7 +731,7 @@
         "ramal": 351,
         "nome": "Sabrina",
         "funcao": "Secretaria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Creche CMEI Maria das Dores",
         "tag": "e2"
     },
@@ -739,7 +739,7 @@
         "ramal": 355,
         "nome": "Marciane",
         "funcao": "Diretoria",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Creche CMEI Peq. Polegar",
         "tag": "e1"
     },
@@ -747,7 +747,7 @@
         "ramal": 356,
         "nome": "Sala Professores",
         "funcao": "Sala Professores",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Creche CMEI Peq. Polegar",
         "tag": "e1"
     },
@@ -755,7 +755,7 @@
         "ramal": 360,
         "nome": "Maria",
         "funcao": "Pedagogia",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Creche CMEI Maria Gilda",
         "tag": "e2"
     },
@@ -763,15 +763,15 @@
         "ramal": 361,
         "nome": "Sala Professores",
         "funcao": "Sala Professores",
-        "departamento": "Educa\u00e7\u00e3o",
+        "departamento": "Educação",
         "localizacao": "Creche CMEI Maria Gilda",
         "tag": "e2"
     },
     {
         "ramal": 365,
         "nome": "Adalgisa",
-        "funcao": "Coordena\u00e7\u00e3o",
-        "departamento": "Educa\u00e7\u00e3o",
+        "funcao": "Coordenação",
+        "departamento": "Educação",
         "localizacao": "Creche CMEI Zilda Arns",
         "tag": "e1"
     },
@@ -779,8 +779,8 @@
         "ramal": 370,
         "nome": "Secretaria",
         "funcao": "Secretaria",
-        "departamento": "Educa\u00e7\u00e3o",
-        "localizacao": "Biblioteca Cidad\u00e3",
+        "departamento": "Educação",
+        "localizacao": "Biblioteca Cidadã",
         "tag": "e2"
     },
     {
@@ -849,25 +849,25 @@
     },
     {
         "ramal": 409,
-        "nome": "Simone\/Nayara",
-        "funcao": "Secret\u00e1ria da Fazenda",
+        "nome": "Simone/Nayara",
+        "funcao": "Secretária da Fazenda",
         "departamento": "Fazenda",
         "localizacao": "Prefeitura",
         "tag": "p1"
     },
     {
         "ramal": 420,
-        "nome": "Flauzio\/Kiko",
-        "funcao": "Fiscaliza\u00e7\u00e3o",
-        "departamento": "Tributa\u00e7\u00e3o",
+        "nome": "Flauzio/Kiko",
+        "funcao": "Fiscalização",
+        "departamento": "Tributação",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
     {
         "ramal": 421,
-        "nome": "Tributa\u00e7\u00e3o",
+        "nome": "Tributação",
         "funcao": "Administrativo",
-        "departamento": "Tributa\u00e7\u00e3o",
+        "departamento": "Tributação",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -875,7 +875,7 @@
         "ramal": 422,
         "nome": "Marco",
         "funcao": "Administrativo",
-        "departamento": "Tributa\u00e7\u00e3o",
+        "departamento": "Tributação",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -883,15 +883,15 @@
         "ramal": 423,
         "nome": "Ana Paula",
         "funcao": "Administrativo",
-        "departamento": "Tributa\u00e7\u00e3o",
+        "departamento": "Tributação",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
     {
         "ramal": 424,
-        "nome": "Jo\u00e3o Paulo",
+        "nome": "João Paulo",
         "funcao": "Administrativo",
-        "departamento": "Tributa\u00e7\u00e3o",
+        "departamento": "Tributação",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -899,15 +899,15 @@
         "ramal": 425,
         "nome": "Rozi",
         "funcao": "Administrativo",
-        "departamento": "Tributa\u00e7\u00e3o",
+        "departamento": "Tributação",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
     {
         "ramal": 426,
-        "nome": "Cr\u00e9zio",
+        "nome": "Crézio",
         "funcao": "Administrativo",
-        "departamento": "Tributa\u00e7\u00e3o",
+        "departamento": "Tributação",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -915,7 +915,7 @@
         "ramal": 427,
         "nome": "Vinicius",
         "funcao": "Administrativo",
-        "departamento": "Tributa\u00e7\u00e3o",
+        "departamento": "Tributação",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -923,7 +923,7 @@
         "ramal": 428,
         "nome": "Diretor",
         "funcao": "Diretor Trib\/Fisc",
-        "departamento": "Tributa\u00e7\u00e3o",
+        "departamento": "Tributação",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
@@ -954,26 +954,26 @@
     {
         "ramal": 450,
         "nome": "Marcela",
-        "funcao": "Licita\u00e7\u00e3o",
-        "departamento": "Administra\u00e7\u00e3o Geral",
+        "funcao": "Licitação",
+        "departamento": "Administração Geral",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
     {
         "ramal": 451,
-        "nome": "Val\u00e9ria",
-        "funcao": "Licita\u00e7\u00e3o",
-        "departamento": "Administra\u00e7\u00e3o Geral",
+        "nome": "Valéria",
+        "funcao": "Licitação",
+        "departamento": "Administração Geral",
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
     {
         "ramal": 460,
         "nome": "Anderson Butura",
-        "funcao": "Diretor Patrim\u00f4nio",
-        "departamento": "Frotas e Patrim\u00f4nio",
+        "funcao": "Diretor Patrimônio",
+        "departamento": "Frotas e Patrimônio",
         "localizacao": "Prefeitura",
-        "tag": "p1"
+        "tag": "p10"
     },
     {
         "ramal": 501,
@@ -1010,7 +1010,7 @@
     {
         "ramal": 505,
         "nome": "Sueli Peres",
-        "funcao": "Secret\u00e1ria da Assist.  Social",
+        "funcao": "Secretária da Assist.  Social",
         "departamento": "Assist. Social",
         "localizacao": "Prefeitura",
         "tag": "p2"
@@ -1020,7 +1020,7 @@
         "nome": "Sueli",
         "funcao": "Diretora CECON",
         "departamento": "Assist. Social",
-        "localizacao": "Contro de Conviv\u00eancia do Idoso",
+        "localizacao": "Contro de Convivência do Idoso",
         "tag": "soc1"
     },
     {
@@ -1028,7 +1028,7 @@
         "nome": "Silvana",
         "funcao": "Secretaria CCCA",
         "departamento": "Assist. Social",
-        "localizacao": "Centro Conv. Crian\u00e7a e Adol.",
+        "localizacao": "Centro Conv. Criança e Adol.",
         "tag": "soc2"
     },
     {
@@ -1036,13 +1036,13 @@
         "nome": "Valdir",
         "funcao": "CCCA",
         "departamento": "Assist. Social",
-        "localizacao": "Centro Conv. Crian\u00e7a e Adol.",
+        "localizacao": "Centro Conv. Criança e Adol.",
         "tag": "soc2"
     },
     {
         "ramal": 530,
-        "nome": "Recep\u00e7\u00e3o",
-        "funcao": "Recep\u00e7\u00e3o",
+        "nome": "Recepção",
+        "funcao": "Recepção",
         "departamento": "Assist. Social",
         "localizacao": "Conselho Tutelar",
         "tag": "soc1"
@@ -1057,7 +1057,7 @@
     },
     {
         "ramal": 535,
-        "nome": "Mariane\/Recep\u00e7\u00e3o",
+        "nome": "Mariane/Recepção",
         "funcao": "CRAS",
         "departamento": "Assist. Social",
         "localizacao": "Centro Ref. Assist. Soc.",
@@ -1081,7 +1081,7 @@
     },
     {
         "ramal": 540,
-        "nome": "Recep\u00e7\u00e3o",
+        "nome": "Recepção",
         "funcao": "CREAS",
         "departamento": "Assist. Social",
         "localizacao": "CREAS",
@@ -1129,7 +1129,7 @@
     },
     {
         "ramal": 602,
-        "nome": "Alex\/Fernando\/Lucas\/Lohary",
+        "nome": "Alex/Fernando/Lucas/Lohary",
         "funcao": "Administrativo",
         "departamento": "Engenharia",
         "localizacao": "Prefeitura",
@@ -1138,7 +1138,7 @@
     {
         "ramal": 605,
         "nome": "Carlos",
-        "funcao": "Secret\u00e1rio Meio Ambiente",
+        "funcao": "Secretário Meio Ambiente",
         "departamento": "Gest. Amb.",
         "localizacao": "Bosque Municipal",
         "tag": "pub1"
@@ -1146,25 +1146,25 @@
     {
         "ramal": 610,
         "nome": "Nelson Sabino",
-        "funcao": "Recep\u00e7\u00e3o",
+        "funcao": "Recepção",
         "departamento": "Pátio",
-        "localizacao": "P\u00e1tio",
+        "localizacao": "Pátio",
         "tag": "pub2"
     },
     {
         "ramal": 611,
         "nome": "Cezinha",
-        "funcao": "Secret\u00e1rio P\u00e1tio",
-        "departamento": "P\u00e1tio",
-        "localizacao": "P\u00e1tio",
+        "funcao": "Secretário Pátio",
+        "departamento": "Pátio",
+        "localizacao": "Pátio",
         "tag": "pub2"
     },
     {
         "ramal": 620,
         "nome": "Erica",
-        "funcao": "Recep\u00e7\u00e3o",
-        "departamento": "P\u00e1tio",
-        "localizacao": "Cemit\u00e9rio",
+        "funcao": "Recepção",
+        "departamento": "Pátio",
+        "localizacao": "Cemitério",
         "tag": "pub1"
     },
     {
@@ -1178,9 +1178,9 @@
     {
         "ramal": 710,
         "nome": "Eduargo Magon/Higor",
-        "funcao": "Previd\u00eancia",
-        "departamento": "Previd\u00eancia",
-        "localizacao": "Previd\u00eancia",
+        "funcao": "Previdência",
+        "departamento": "Previdência",
+        "localizacao": "Previdência",
         "tag": "pub1"
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "ramal": 102,
-        "nome": "Valter Peres",
+        "nome": "Valtinho Peres",
         "funcao": "Prefeito",
         "departamento": "Gabinete",
         "localizacao": "Prefeitura",
@@ -929,7 +929,7 @@
     },
     {
         "ramal": 440,
-        "nome": "Katia",
+        "nome": "Katia/Heloisa",
         "funcao": "Diretora do Compras",
         "departamento": "Compras",
         "localizacao": "Prefeitura",
@@ -945,7 +945,7 @@
     },
     {
         "ramal": 442,
-        "nome": "Helo\u00edsa",
+        "nome": "Adriely",
         "funcao": "Administrativo",
         "departamento": "Compras",
         "localizacao": "Prefeitura",

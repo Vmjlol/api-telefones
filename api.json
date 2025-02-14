@@ -1015,6 +1015,14 @@
         "localizacao": "Prefeitura",
         "tag": "p2"
     },
+        {
+        "ramal": 510,
+        "nome": "Capela Mortuária",
+        "funcao": "Capela Mortuária",
+        "departamento": "Assist. Social",
+        "localizacao": "Capela Mortuária",
+        "tag": "soc2"
+    },
     {
         "ramal": 520,
         "nome": "Sueli",

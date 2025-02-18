@@ -250,7 +250,7 @@
     {
         "ramal": 232,
         "nome": "Paulo Dezoti",
-        "funcao": "Diretor Vigilância",
+        "funcao": "Dir. Vigilância",
         "departamento": "Saúde",
         "localizacao": "Vigilância",
         "tag": "s2"
@@ -289,7 +289,7 @@
     },
     {
         "ramal": 242,
-        "nome": "Josi",
+        "nome": "Vinícius",
         "funcao": "Administrativo",
         "departamento": "Saúde",
         "localizacao": "Hospital Municipal",
@@ -329,8 +329,8 @@
     },
     {
         "ramal": 247,
-        "nome": "Ivone",
-        "funcao": "Diretora do Hospital",
+        "nome": "Cacia",
+        "funcao": "Dir. do Hospital",
         "departamento": "Saúde",
         "localizacao": "Hospital Municipal",
         "tag": "s2"
@@ -922,7 +922,7 @@
     {
         "ramal": 428,
         "nome": "Diretor",
-        "funcao": "Diretor Trib\/Fisc",
+        "funcao": "Dir. Trib/Fisc",
         "departamento": "Tributação",
         "localizacao": "Prefeitura",
         "tag": "p2"
@@ -930,7 +930,7 @@
     {
         "ramal": 440,
         "nome": "Katia/Heloisa",
-        "funcao": "Diretora do Compras",
+        "funcao": "Dir. do Compras",
         "departamento": "Compras",
         "localizacao": "Prefeitura",
         "tag": "p1"
@@ -970,7 +970,7 @@
     {
         "ramal": 460,
         "nome": "Anderson Butura",
-        "funcao": "Diretor Patrimônio",
+        "funcao": "Dir. Patrimônio",
         "departamento": "Frotas e Patrimônio",
         "localizacao": "Prefeitura",
         "tag": "p10"
@@ -1026,7 +1026,7 @@
     {
         "ramal": 520,
         "nome": "Sueli",
-        "funcao": "Diretora CECON",
+        "funcao": "Dir. CECON",
         "departamento": "Assist. Social",
         "localizacao": "Contro de Convivência do Idoso",
         "tag": "soc1"

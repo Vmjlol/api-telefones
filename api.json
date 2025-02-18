@@ -594,7 +594,7 @@
     {
         "ramal": 310,
         "nome": "Marta",
-        "funcao": "Sec.aria",
+        "funcao": "Sec.",
         "departamento": "Educação",
         "localizacao": "EM Princesa Isabel",
         "tag": "e2"
@@ -610,7 +610,7 @@
     {
         "ramal": 315,
         "nome": "Rosiane",
-        "funcao": "Sec.aria",
+        "funcao": "Sec.",
         "departamento": "Educação",
         "localizacao": "EM Therezinha Bagatin",
         "tag": "e1"
@@ -642,7 +642,7 @@
     {
         "ramal": 321,
         "nome": "Willian",
-        "funcao": "Sec.aria",
+        "funcao": "Sec.",
         "departamento": "Educação",
         "localizacao": "EM Monteiro Lobato",
         "tag": "e2"
@@ -658,7 +658,7 @@
     {
         "ramal": 326,
         "nome": "Naiane",
-        "funcao": "Sec.aria",
+        "funcao": "Sec.",
         "departamento": "Educação",
         "localizacao": "EM Irene Mendes",
         "tag": "e1"
@@ -674,7 +674,7 @@
     {
         "ramal": 331,
         "nome": "Fernanda",
-        "funcao": "Sec.aria",
+        "funcao": "Sec.",
         "departamento": "Educação",
         "localizacao": "EM Adriano Franco",
         "tag": "e2"
@@ -706,7 +706,7 @@
     {
         "ramal": 345,
         "nome": "Marta",
-        "funcao": "Sec.aria",
+        "funcao": "Sec.",
         "departamento": "Educação",
         "localizacao": "CMEI Criança Feliz",
         "tag": "e1"
@@ -730,7 +730,7 @@
     {
         "ramal": 351,
         "nome": "Sabrina",
-        "funcao": "Sec.aria",
+        "funcao": "Sec.",
         "departamento": "Educação",
         "localizacao": "CMEI Maria das Dores",
         "tag": "e2"
@@ -777,8 +777,8 @@
     },
     {
         "ramal": 370,
-        "nome": "Sec.aria",
-        "funcao": "Sec.aria",
+        "nome": "Sec.",
+        "funcao": "Sec.",
         "departamento": "Educação",
         "localizacao": "Biblioteca Cidadã",
         "tag": "e2"
@@ -1034,7 +1034,7 @@
     {
         "ramal": 525,
         "nome": "Silvana",
-        "funcao": "Sec.aria CCCA",
+        "funcao": "Sec. CCCA",
         "departamento": "Assist. Social",
         "localizacao": "Centro Conv. Criança e Adol.",
         "tag": "soc2"
@@ -1178,7 +1178,7 @@
     {
         "ramal": 701,
         "nome": "Gin. Esportes",
-        "funcao": "Sec.aria",
+        "funcao": "Sec.",
         "departamento": "Esportes",
         "localizacao": "Gin. Esportes",
         "tag": "pub2"

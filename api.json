@@ -777,7 +777,7 @@
     },
     {
         "ramal": 370,
-        "nome": "Sec.",
+        "nome": "Secretaria",
         "funcao": "Sec.",
         "departamento": "Educação",
         "localizacao": "Biblioteca Cidadã",
@@ -1010,7 +1010,7 @@
     {
         "ramal": 505,
         "nome": "Sueli Peres",
-        "funcao": "Sec. da Assist.  Social",
+        "funcao": "Sec. Social",
         "departamento": "Assist. Social",
         "localizacao": "Prefeitura",
         "tag": "p2"
@@ -1146,7 +1146,7 @@
     {
         "ramal": 605,
         "nome": "Carlos",
-        "funcao": "Sec. Meio Ambiente",
+        "funcao": "Sec. Meio Amb.",
         "departamento": "Gest. Amb.",
         "localizacao": "Bosque Municipal",
         "tag": "pub1"

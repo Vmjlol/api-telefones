@@ -268,7 +268,7 @@
         "nome": "Levi",
         "funcao": "Endemias",
         "departamento": "Saúde",
-        "localizacao": "UBS Miguel Alves Pereira (Postão)",
+        "localizacao": "UBS Miguel",
         "tag": "s1"
     },
     {
@@ -476,7 +476,7 @@
         "nome": "Cidinha",
         "funcao": "Recepção",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador (Vila)",
+        "localizacao": "UBS Salvador(Vila)",
         "tag": "s1"
     },
     {
@@ -484,7 +484,7 @@
         "nome": "Cristiane",
         "funcao": "Vacina",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador (Vila)",
+        "localizacao": "UBS Salvador(Vila)",
         "tag": "s1"
     },
     {
@@ -492,7 +492,7 @@
         "nome": "Sala ACS",
         "funcao": "Sala ACS",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador (Vila)",
+        "localizacao": "UBS Salvador(Vila)",
         "tag": "s1"
     },
     {
@@ -500,7 +500,7 @@
         "nome": "Farmácia",
         "funcao": "Farmácia",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador (Vila)",
+        "localizacao": "UBS Salvador(Vila)",
         "tag": "s1"
     },
     {
@@ -508,7 +508,7 @@
         "nome": "Odontologia",
         "funcao": "Odontologia",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador (Vila)",
+        "localizacao": "UBS Salvador(Vila)",
         "tag": "s1"
     },
     {
@@ -516,7 +516,7 @@
         "nome": "Odécio",
         "funcao": "Coordenação",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador (Vila)",
+        "localizacao": "UBS Salvador(Vila)",
         "tag": "s1"
     },
     {
@@ -684,7 +684,7 @@
         "nome": "Adalgisa",
         "funcao": "Coordenação",
         "departamento": "Educação",
-        "localizacao": "EM Manuel M. Rosa",
+        "localizacao": "EM Manuel Rosa",
         "tag": "e1"
     },
     {
@@ -1028,7 +1028,7 @@
         "nome": "Sueli",
         "funcao": "Dir. CECON",
         "departamento": "Assist. Social",
-        "localizacao": "Contro de Convivência do Idoso",
+        "localizacao": "CECON",
         "tag": "soc1"
     },
     {
@@ -1036,7 +1036,7 @@
         "nome": "Silvana",
         "funcao": "Sec. CCCA",
         "departamento": "Assist. Social",
-        "localizacao": "Centro Conv. Criança e Adol.",
+        "localizacao": "CCCA",
         "tag": "soc2"
     },
     {
@@ -1044,7 +1044,7 @@
         "nome": "Valdir",
         "funcao": "CCCA",
         "departamento": "Assist. Social",
-        "localizacao": "Centro Conv. Criança e Adol.",
+        "localizacao": "CCCA",
         "tag": "soc2"
     },
     {
@@ -1068,7 +1068,7 @@
         "nome": "Mariane/Recepção",
         "funcao": "CRAS",
         "departamento": "Assist. Social",
-        "localizacao": "Centro Ref. Assist. Soc.",
+        "localizacao": "CRAS",
         "tag": "soc2"
     },
     {
@@ -1076,7 +1076,7 @@
         "nome": "Amanda",
         "funcao": "CRAS",
         "departamento": "Assist. Social",
-        "localizacao": "Centro Ref. Assist. Soc.",
+        "localizacao": "CRAS",
         "tag": "soc2"
     },
     {
@@ -1084,7 +1084,7 @@
         "nome": "Karina",
         "funcao": "CRAS",
         "departamento": "Assist. Social",
-        "localizacao": "Centro Ref. Assist. Soc.",
+        "localizacao": "CRAS",
         "tag": "soc2"
     },
     {

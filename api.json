@@ -18,7 +18,7 @@
     {
         "ramal": 104,
         "nome": "Toninho",
-        "funcao": "Secretário Adm Geral",
+        "funcao": "Sec. Adm Geral",
         "departamento": "Gabinete",
         "localizacao": "Prefeitura",
         "tag": "p1"
@@ -146,7 +146,7 @@
     {
         "ramal": 204,
         "nome": "Leuktembergg",
-        "funcao": "Secretário de Saúde",
+        "funcao": "Sec. de Saúde",
         "departamento": "Saúde",
         "localizacao": "Prefeitura",
         "tag": "p2"
@@ -562,7 +562,7 @@
     {
         "ramal": 304,
         "nome": "Rosane",
-        "funcao": "Secretária de Educação",
+        "funcao": "Sec. de Educação",
         "departamento": "Educação",
         "localizacao": "Sec. Educação e Cultura",
         "tag": "e1"
@@ -594,7 +594,7 @@
     {
         "ramal": 310,
         "nome": "Marta",
-        "funcao": "Secretaria",
+        "funcao": "Sec.aria",
         "departamento": "Educação",
         "localizacao": "EM Princesa Isabel",
         "tag": "e2"
@@ -610,7 +610,7 @@
     {
         "ramal": 315,
         "nome": "Rosiane",
-        "funcao": "Secretaria",
+        "funcao": "Sec.aria",
         "departamento": "Educação",
         "localizacao": "EM Therezinha Bagatin",
         "tag": "e1"
@@ -642,7 +642,7 @@
     {
         "ramal": 321,
         "nome": "Willian",
-        "funcao": "Secretaria",
+        "funcao": "Sec.aria",
         "departamento": "Educação",
         "localizacao": "EM Monteiro Lobato",
         "tag": "e2"
@@ -658,7 +658,7 @@
     {
         "ramal": 326,
         "nome": "Naiane",
-        "funcao": "Secretaria",
+        "funcao": "Sec.aria",
         "departamento": "Educação",
         "localizacao": "EM Irene Mendes",
         "tag": "e1"
@@ -674,7 +674,7 @@
     {
         "ramal": 331,
         "nome": "Fernanda",
-        "funcao": "Secretaria",
+        "funcao": "Sec.aria",
         "departamento": "Educação",
         "localizacao": "EM Adriano Franco",
         "tag": "e2"
@@ -706,7 +706,7 @@
     {
         "ramal": 345,
         "nome": "Marta",
-        "funcao": "Secretaria",
+        "funcao": "Sec.aria",
         "departamento": "Educação",
         "localizacao": "CMEI Criança Feliz",
         "tag": "e1"
@@ -730,7 +730,7 @@
     {
         "ramal": 351,
         "nome": "Sabrina",
-        "funcao": "Secretaria",
+        "funcao": "Sec.aria",
         "departamento": "Educação",
         "localizacao": "CMEI Maria das Dores",
         "tag": "e2"
@@ -777,8 +777,8 @@
     },
     {
         "ramal": 370,
-        "nome": "Secretaria",
-        "funcao": "Secretaria",
+        "nome": "Sec.aria",
+        "funcao": "Sec.aria",
         "departamento": "Educação",
         "localizacao": "Biblioteca Cidadã",
         "tag": "e2"
@@ -850,7 +850,7 @@
     {
         "ramal": 409,
         "nome": "Simone/Nayara",
-        "funcao": "Secretária da Fazenda",
+        "funcao": "Sec.ária da Fazenda",
         "departamento": "Fazenda",
         "localizacao": "Prefeitura",
         "tag": "p1"
@@ -1010,7 +1010,7 @@
     {
         "ramal": 505,
         "nome": "Sueli Peres",
-        "funcao": "Secretária da Assist.  Social",
+        "funcao": "Sec.ária da Assist.  Social",
         "departamento": "Assist. Social",
         "localizacao": "Prefeitura",
         "tag": "p2"
@@ -1034,7 +1034,7 @@
     {
         "ramal": 525,
         "nome": "Silvana",
-        "funcao": "Secretaria CCCA",
+        "funcao": "Sec.aria CCCA",
         "departamento": "Assist. Social",
         "localizacao": "Centro Conv. Criança e Adol.",
         "tag": "soc2"
@@ -1146,7 +1146,7 @@
     {
         "ramal": 605,
         "nome": "Carlos",
-        "funcao": "Secretário Meio Ambiente",
+        "funcao": "Sec.ário Meio Ambiente",
         "departamento": "Gest. Amb.",
         "localizacao": "Bosque Municipal",
         "tag": "pub1"
@@ -1162,7 +1162,7 @@
     {
         "ramal": 611,
         "nome": "Cezinha",
-        "funcao": "Secretário Pátio",
+        "funcao": "Sec.ário Pátio",
         "departamento": "Pátio",
         "localizacao": "Pátio",
         "tag": "pub2"
@@ -1178,7 +1178,7 @@
     {
         "ramal": 701,
         "nome": "Gin. Esportes",
-        "funcao": "Secretaria",
+        "funcao": "Sec.aria",
         "departamento": "Esportes",
         "localizacao": "Gin. Esportes",
         "tag": "pub2"

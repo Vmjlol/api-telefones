@@ -348,7 +348,7 @@
         "nome": "Recepção",
         "funcao": "Recepção",
         "departamento": "Saúde",
-        "localizacao": "UBS Bartira (Santo Afonso)",
+        "localizacao": "UBS Bartira",
         "tag": "s1"
     },
     {
@@ -356,7 +356,7 @@
         "nome": "Coordenação",
         "funcao": "Coordenação",
         "departamento": "Saúde",
-        "localizacao": "UBS Bartira (Santo Afonso)",
+        "localizacao": "UBS Bartira",
         "tag": "s1"
     },
     {
@@ -364,7 +364,7 @@
         "nome": "Odonto 01",
         "funcao": "Odontologia",
         "departamento": "Saúde",
-        "localizacao": "UBS Bartira (Santo Afonso)",
+        "localizacao": "UBS Bartira",
         "tag": "s1"
     },
     {
@@ -372,7 +372,7 @@
         "nome": "Odonto 02",
         "funcao": "Odontologia",
         "departamento": "Saúde",
-        "localizacao": "UBS Bartira (Santo Afonso)",
+        "localizacao": "UBS Bartira",
         "tag": "s1"
     },
     {
@@ -380,7 +380,7 @@
         "nome": "Sala ACS",
         "funcao": "Sala ACS",
         "departamento": "Saúde",
-        "localizacao": "UBS Bartira (Santo Afonso)",
+        "localizacao": "UBS Bartira",
         "tag": "s1"
     },
     {
@@ -388,7 +388,7 @@
         "nome": "Fisioterapia",
         "funcao": "Fisioterapia",
         "departamento": "Saúde",
-        "localizacao": "UBS Bartira (Santo Afonso)",
+        "localizacao": "UBS Bartira",
         "tag": "s1"
     },
     {
@@ -396,7 +396,7 @@
         "nome": "Preparo",
         "funcao": "Preparo",
         "departamento": "Saúde",
-        "localizacao": "UBS Bartira (Santo Afonso)",
+        "localizacao": "UBS Bartira",
         "tag": "s1"
     },
     {
@@ -404,7 +404,7 @@
         "nome": "Farmácia",
         "funcao": "Farmácia",
         "departamento": "Saúde",
-        "localizacao": "UBS Bartira (Santo Afonso)",
+        "localizacao": "UBS Bartira",
         "tag": "s1"
     },
     {
@@ -412,7 +412,7 @@
         "nome": "Recepção",
         "funcao": "Recepção",
         "departamento": "Saúde",
-        "localizacao": "UBS Emília Fagundes (Bagatin)",
+        "localizacao": "UBS Emília",
         "tag": "s2"
     },
     {
@@ -420,7 +420,7 @@
         "nome": "Coordenação",
         "funcao": "Coordenação",
         "departamento": "Saúde",
-        "localizacao": "UBS Emília Fagundes (Bagatin)",
+        "localizacao": "UBS Emília",
         "tag": "s2"
     },
     {
@@ -428,7 +428,7 @@
         "nome": "Sala ACS",
         "funcao": "Sala ACS",
         "departamento": "Saúde",
-        "localizacao": "UBS Emília Fagundes (Bagatin)",
+        "localizacao": "UBS Emília",
         "tag": "s2"
     },
     {
@@ -436,7 +436,7 @@
         "nome": "Recepção",
         "funcao": "Recepção",
         "departamento": "Saúde",
-        "localizacao": "UBS Lazaro M. Rodrigues (Malu)",
+        "localizacao": "UBS Malu",
         "tag": "s1"
     },
     {
@@ -444,7 +444,7 @@
         "nome": "Coordenação",
         "funcao": "Coordenação",
         "departamento": "Saúde",
-        "localizacao": "UBS Lazaro M. Rodrigues (Malu)",
+        "localizacao": "UBS Malu",
         "tag": "s1"
     },
     {
@@ -452,7 +452,7 @@
         "nome": "Recepção",
         "funcao": "Recepção",
         "departamento": "Saúde",
-        "localizacao": "UBS Miguel A. Pereira (Postão)",
+        "localizacao": "UBS Miguel",
         "tag": "s2"
     },
     {
@@ -460,7 +460,7 @@
         "nome": "Farmácia",
         "funcao": "Farmácia",
         "departamento": "Saúde",
-        "localizacao": "UBS Miguel A. Pereira (Postão)",
+        "localizacao": "UBS Miguel",
         "tag": "s2"
     },
     {
@@ -468,7 +468,7 @@
         "nome": "Sala ACS",
         "funcao": "Sala ACS",
         "departamento": "Saúde",
-        "localizacao": "UBS Miguel A. Pereira (Postão)",
+        "localizacao": "UBS Miguel",
         "tag": "s2"
     },
     {
@@ -476,7 +476,7 @@
         "nome": "Cidinha",
         "funcao": "Recepção",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador B. Molina (Vila)",
+        "localizacao": "UBS Salvador (Vila)",
         "tag": "s1"
     },
     {
@@ -484,7 +484,7 @@
         "nome": "Cristiane",
         "funcao": "Vacina",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador B. Molina (Vila)",
+        "localizacao": "UBS Salvador (Vila)",
         "tag": "s1"
     },
     {
@@ -492,7 +492,7 @@
         "nome": "Sala ACS",
         "funcao": "Sala ACS",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador B. Molina (Vila)",
+        "localizacao": "UBS Salvador (Vila)",
         "tag": "s1"
     },
     {
@@ -500,7 +500,7 @@
         "nome": "Farmácia",
         "funcao": "Farmácia",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador B. Molina (Vila)",
+        "localizacao": "UBS Salvador (Vila)",
         "tag": "s1"
     },
     {
@@ -508,15 +508,15 @@
         "nome": "Odontologia",
         "funcao": "Odontologia",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador B. Molina (Vila)",
+        "localizacao": "UBS Salvador (Vila)",
         "tag": "s1"
     },
     {
         "ramal": 280,
-        "nome": "Od\u00e9cio",
+        "nome": "Odécio",
         "funcao": "Coordenação",
         "departamento": "Saúde",
-        "localizacao": "UBS Salvador B. Molina (Vila)",
+        "localizacao": "UBS Salvador (Vila)",
         "tag": "s1"
     },
     {
@@ -529,7 +529,7 @@
     },
     {
         "ramal": 286,
-        "nome": "M\u00e9dicos",
+        "nome": "Médicos",
         "funcao": "Administrativo",
         "departamento": "Saúde",
         "localizacao": "CAPS",

@@ -148,7 +148,7 @@
         "nome": "Leuktembergg",
         "funcao": "Sec. de Saúde",
         "departamento": "Saúde",
-        "localizacao": "Secretário",
+        "localizacao": "Sec. Saúde",
         "tag": "p2"
     },
     {
@@ -593,8 +593,8 @@
     },
     {
         "ramal": 310,
-        "nome": "Marta",
-        "funcao": "Sec.",
+        "nome": "Henrique",
+        "funcao": "Secretaria",
         "departamento": "Educação",
         "localizacao": "EM Princesa Isabel",
         "tag": "e2"
@@ -610,7 +610,7 @@
     {
         "ramal": 315,
         "nome": "Rosiane",
-        "funcao": "Sec.",
+        "funcao": "Secretaria",
         "departamento": "Educação",
         "localizacao": "EM Therezinha",
         "tag": "e1"
@@ -625,7 +625,7 @@
     },
     {
         "ramal": 317,
-        "nome": "Cleide\/Fatima",
+        "nome": "Cleide/Fatima",
         "funcao": "Pedagogia",
         "departamento": "Educação",
         "localizacao": "EM Therezinha",
@@ -642,7 +642,7 @@
     {
         "ramal": 321,
         "nome": "Willian",
-        "funcao": "Sec.",
+        "funcao": "Secretaria",
         "departamento": "Educação",
         "localizacao": "EM Monteiro L.",
         "tag": "e2"
@@ -658,7 +658,7 @@
     {
         "ramal": 326,
         "nome": "Naiane",
-        "funcao": "Sec.",
+        "funcao": "Secretaria",
         "departamento": "Educação",
         "localizacao": "EM Irene Mendes",
         "tag": "e1"
@@ -674,7 +674,7 @@
     {
         "ramal": 331,
         "nome": "Fernanda",
-        "funcao": "Sec.",
+        "funcao": "Secretaria",
         "departamento": "Educação",
         "localizacao": "EM Adriano Franco",
         "tag": "e2"
@@ -705,8 +705,8 @@
     },
     {
         "ramal": 345,
-        "nome": "Marta",
-        "funcao": "Sec.",
+        "nome": "Henrique",
+        "funcao": "Secretaria",
         "departamento": "Educação",
         "localizacao": "CMEI Criança Feliz",
         "tag": "e1"
@@ -730,7 +730,7 @@
     {
         "ramal": 351,
         "nome": "Sabrina",
-        "funcao": "Sec.",
+        "funcao": "Secretaria",
         "departamento": "Educação",
         "localizacao": "CMEI M. das Dores",
         "tag": "e2"
@@ -778,7 +778,7 @@
     {
         "ramal": 370,
         "nome": "Secretaria",
-        "funcao": "Sec.",
+        "funcao": "Secretaria.",
         "departamento": "Educação",
         "localizacao": "Biblioteca Cidadã",
         "tag": "e2"
@@ -1012,7 +1012,7 @@
         "nome": "Sueli Peres",
         "funcao": "Sec. Social",
         "departamento": "Assist. Social",
-        "localizacao": "Assist. Social",
+        "localizacao": "Sec. Social",
         "tag": "p2"
     },
         {

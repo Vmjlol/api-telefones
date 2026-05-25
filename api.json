@@ -120,14 +120,6 @@
         "tag": "p2"
     },
     {
-        "ramal": 460,
-        "nome": "Anderson/Fabio",
-        "funcao": "Frotas/Patrimônio/Almoxarifado",
-        "departamento": "Frotas/Patrimônio/Almoxarifado",
-        "localizacao": "Almoxarifado",
-        "tag": "p1"
-    },
-    {
         "ramal": 201,
         "nome": "Elena",
         "funcao": "Administrativo",
@@ -982,6 +974,14 @@
         "departamento": "Administração Geral",
         "localizacao": "Licitação",
         "tag": "p2"
+    },
+    {
+        "ramal": 460,
+        "nome": "Anderson/Fabio",
+        "funcao": "Frotas/Patrimônio/Almoxarifado",
+        "departamento": "Frotas/Patrimônio/Almoxarifado",
+        "localizacao": "Almoxarifado",
+        "tag": "p1"
     },
     {
         "ramal": 501,
